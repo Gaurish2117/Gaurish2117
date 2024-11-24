@@ -1,6 +1,3 @@
-
-Here’s an updated version with your requested changes:
-
 Gauri Shrivastava
 Business Analytics Graduate Student
 As an aspiring Business Analyst with a strong foundation in data analytics, business intelligence, and process optimization, I am passionate about leveraging data-driven insights to solve complex business challenges. My journey is driven by a curiosity to understand the dynamics of business operations and a commitment to continuous learning and growth.
