@@ -5,7 +5,7 @@ As an aspiring Business Analyst with a strong foundation in data analytics, busi
 📌 About Me
 🌍 I'm based in Syracuse, New York.  
 🎓 Currently pursuing a master's degree in Business Analytics at Syracuse University.  
-✉️ Contact me at shrivastava.gauri@syr.edu.  
+✉️ Contact me at gaurishriv9@gmail.com.  
 🚀 Actively exploring projects related to data visualization, predictive modeling, and business strategy development.  
 🧠 Currently learning advanced SQL, Tableau, and Python for analytics.  
 🤝 Open to collaborations and internships focused on process optimization, data analysis, and business strategy.  
